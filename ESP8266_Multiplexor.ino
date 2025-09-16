@@ -1,5 +1,5 @@
 // codigo que utilizamos para hacer que el wemos, a traves del multiplexor, pueda mostrarnos los valores de cada potenciometro (en este caso para 5 que representan 
-// losdedos de una mano
+// los dedos de una mano)
 
 
 // Pines de control del multiplexor

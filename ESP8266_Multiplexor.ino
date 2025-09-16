@@ -1,4 +1,7 @@
-// codigo que utilizamos para hacer que el wemos, a traves del multiplexor, pueda mostrarnos los valores de cada potenciometro: 
+// codigo que utilizamos para hacer que el wemos, a traves del multiplexor, pueda mostrarnos los valores de cada potenciometro (en este caso para 5 que representan 
+// losdedos de una mano
+
+
 // Pines de control del multiplexor
 #define S0 D1
 #define S1 D2

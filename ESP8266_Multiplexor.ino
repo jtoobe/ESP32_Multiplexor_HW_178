@@ -1,6 +1,7 @@
 // codigo que utilizamos para hacer que el wemos, a traves del multiplexor, pueda mostrarnos los valores de cada potenciometro (en este caso para 5 que representan 
 // los dedos de una mano)
 
+// El HW-178 soporta hasta 16 canales analogicos, pueden usarse tambien interruptores en lugar de potenciometros
 
 // Pines de control del multiplexor
 #define S0 D1
